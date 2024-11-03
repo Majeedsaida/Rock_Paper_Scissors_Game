@@ -36,6 +36,6 @@ while True:
          (player_choice == "paper" and computer_choice == "rock"):
         print("You win this round!") 
         player_score += 1
-    else:
+    else: 
         print("Computer wins this round!")
         computer_score += 1
